@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.R
+*.zip
+*.pyc
+tx_counties/
+tl_*
+*.doc
